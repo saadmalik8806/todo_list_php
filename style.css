@@ -2,9 +2,9 @@
 	width: 50%;
 	margin: 30px auto;
 	text-align: center;
-	color: 	#6B8E23;
+	color: 	#000;
 	background: #FFF8DC;
-	border: 2px solid #6B8E23;
+	border: 2px solid #000;
 	border-radius: 20px;
 }
 form {
@@ -13,7 +13,7 @@ form {
 	border-radius: 5px; 
 	padding: 10px;
 	background: #FFF8DC;
-	border: 1px solid #6B8E23;
+	border: 1px solid #000;
 }
 form p {
 	color: red;
@@ -23,13 +23,13 @@ form p {
 	width: 75%;
 	height: 15px; 
 	padding: 10px;
-	border: 2px solid #6B8E23;
+	border: 2px solid #000;
 }
 .add_btn {
 	height: 39px;
 	background: #FFF8DC;
-	color: 	#6B8E23;
-	border: 2px solid #6B8E23;
+	color: 	#000;
+	border: 2px solid #000;
 	border-radius: 5px; 
 	padding: 5px 20px;
 }
@@ -46,7 +46,7 @@ tr {
 
 th {
 	font-size: 19px;
-	color: #6B8E23;
+	color: #000;
 }
 
 th, td{

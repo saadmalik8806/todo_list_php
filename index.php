@@ -25,7 +25,7 @@
 </head>
 <body>
 	<div class="heading">
-		<h2 style="font-style: 'Hervetica';">ToDo List Application PHP and MySQL database</h2>
+		<h2 style="font-style: 'Hervetica';">toDo List in PHP </h2>
 	</div>
    
 	<form method="post" action="index.php" class="input_form">
